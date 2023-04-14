@@ -6,6 +6,7 @@ Informasi
 *******************
 
 Untuk database sudah disediakan, silahkan cek filenya database.sql
+sudah termasuk css bootstrap, jquery dan lainnya
 
 *******************
 Requirements
