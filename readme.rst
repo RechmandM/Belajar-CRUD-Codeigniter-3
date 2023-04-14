@@ -19,7 +19,7 @@ Framework `Codeigniter 3 <https://codeigniter.com/download>`_.
 Developer
 *******
 
-- Name : Rechmand M
+- Nama : Rechmand M
 - Status : Mahasiswa IT
 - Alamat : Kota Tangerang
 
